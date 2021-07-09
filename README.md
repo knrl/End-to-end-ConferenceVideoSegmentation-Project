@@ -1,10 +1,9 @@
 # End-to-end-ConferenceVideoSegmentation-Project
 
-[Video Conference Segmentation Dataset](https://github.com/kuangzijian/Flow-Based-Video-Segmentation)
+[Video Conference Segmentation Dataset:](https://github.com/kuangzijian/Flow-Based-Video-Segmentation)
 
 <p align="center">
   <img height="200"  src="images/dataset.png">
-  <p align="center"><i>Figure 1. Dataset samples</i></p>
 </p>
 
 ## Codes
