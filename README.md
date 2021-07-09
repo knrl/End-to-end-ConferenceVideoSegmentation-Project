@@ -15,8 +15,8 @@ The model architecture codes:
 
 Dataset, training and test codes:
 
-* [Data Manager](https://github.com/knrl/End-to-end-ConferenceVideoSegmentation-Project/blob/main/data_manager.py)
-* [Main](https://github.com/knrl/End-to-end-ConferenceVideoSegmentation-Project/blob/main/main.py)
+* [Dataset Manager](https://github.com/knrl/End-to-end-ConferenceVideoSegmentation-Project/blob/main/data_manager.py)
+* [Main (Utils,Train,Test,Eval Methods)](https://github.com/knrl/End-to-end-ConferenceVideoSegmentation-Project/blob/main/main.py)
 * [Run Experiments](https://github.com/knrl/End-to-end-ConferenceVideoSegmentation-Project/blob/main/run_experiment.py)
 
 
