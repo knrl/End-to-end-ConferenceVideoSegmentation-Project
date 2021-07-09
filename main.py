@@ -96,7 +96,7 @@ class Main:
             pred = self.model.predict(data)
 
         time_start = time.time()
-        self.model(data[0].reshape(1,main_obj.height,main_obj.width,1))
+        self.model(data[0].reshape(1,self.height,self.width,1))
         time_end = time.time()
         print('Prediction time for single image: ', (time_end - time_start))
 
